@@ -16,4 +16,9 @@ pd.info() displays column info
 pd.describe() displays statistical info about data  
 pd['row'].value_counts() useful to view categorical data  
 plot data with scatter (x lang, y lat)  
-plot data with scatter 
+plot data with scatter  
+prepare data (via transformation function). using functions have multiple advatages  
+- can work on new data (fresh data set)
+- can be used to preprocess data at production
+- build a library of transformation function to use with other projects
+- easier to try different combinations of transformations
