@@ -22,3 +22,5 @@ prepare data (via transformation function). using functions have multiple advata
 - can be used to preprocess data at production
 - build a library of transformation function to use with other projects
 - easier to try different combinations of transformations
+
+preprocessing pipeline  
